@@ -1,3 +1,4 @@
+/** @noResolution */
 declare module "peachy" {
     import { Image } from "love.graphics";
 
